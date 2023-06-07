@@ -87,19 +87,6 @@ def print_menu():
     print("9. Exit")
 
 
-def print_menu():
-    print("Menu:")
-    print("1. Add element to the set")
-    print("2. Remove element from the set")
-    print("3. Check if element is in the set")
-    print("4. Get the size of the set")
-    print("5. Find the intersection of two sets")
-    print("6. Find the union of two sets")
-    print("7. Find the difference between two sets")
-    print("8. Find the symmetric difference between two sets")
-    print("9. Check if one set is a subset of another")
-    print("10. Display the set")
-    print("11. Exit")
 
 
 def main():
